@@ -7,7 +7,7 @@
 <title>add product</title>
 </head>
 <body>
-	<form action="addProduct">
+	<form action="addProduct" method="post">
 		Product name : <input type="text" name="name" value="" />
 		<br/>
 		Product price : <input type="text" name="price" value="" />
